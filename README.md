@@ -1,6 +1,6 @@
 # britney
 
-A poster and type tool by Sethy Ferreira.
+A design tool by Sethy Ferreira.
 
 **Open it:** https://ilovemygirlsmind.github.io/britney/ (works best in Chrome)
 
